@@ -1,0 +1,19 @@
+{
+  "chainID": 108,
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    }
+  },
+  "tokens": [
+    {
+      "address": "0x1F489E0282cFA883A4224C91309bC4D4c062ed93",
+      "symbol": "NICER",
+      "name": "NICER",
+      "decimals": 18,
+      "logoURI": "https://static.thundercore.com/tokens/icons/NICER.png",
+      "tags": []
+    }
+  ]
+}
