@@ -4,6 +4,10 @@
     "stablecoin": {
       "name": "Stablecoin",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "bridgeable": {
+      "name": "Bridgeable token",
+      "description": "Tokens that can be bridged in and out from a foreign chain."
     }
   },
   "tokens": [
@@ -13,7 +17,7 @@
       "name": "TT20-USDT",
       "decimals": 6,
       "logoURI": "",
-      "tags": ["stablecoin"]
+      "tags": ["stablecoin", "bridgeable"]
     },
     {
       "address": "0x1b3f37aFCE0C509eF4bf846019D2feF8F5ef8657",
@@ -29,7 +33,7 @@
       "name": "TT20-Wrapped Bitcoin",
       "decimals": 8,
       "logoURI": "",
-      "tags": []
+      "tags": ["bridgeable"]
     },
     {
       "address": "0x1d8e61c62ceC1aabd2c36cd22E54Ba831c805f8B",
@@ -37,7 +41,7 @@
       "name": "TT20-USD Coin",
       "decimals": 6,
       "logoURI": "",
-      "tags": ["stablecoin"]
+      "tags": ["stablecoin", "bridgeable"]
     }
   ]
 }
