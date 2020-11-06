@@ -16,7 +16,6 @@
       "symbol": "USDT",
       "name": "TT20-USDT",
       "decimals": 6,
-      "logoURI": "",
       "tags": ["stablecoin", "bridgeable"]
     },
     {
@@ -24,7 +23,6 @@
       "symbol": "NICER",
       "name": "NICER",
       "decimals": 18,
-      "logoURI": "https://static.thundercore.com/tokens/icons/NICER.png",
       "tags": []
     },
     {
@@ -32,7 +30,6 @@
       "symbol": "WBTC",
       "name": "TT20-Wrapped Bitcoin",
       "decimals": 8,
-      "logoURI": "",
       "tags": ["bridgeable"]
     },
     {
@@ -40,7 +37,6 @@
       "symbol": "USDC",
       "name": "TT20-USD Coin",
       "decimals": 6,
-      "logoURI": "",
       "tags": ["stablecoin", "bridgeable"]
     }
   ]
