@@ -8,12 +8,36 @@
   },
   "tokens": [
     {
+      "address": "0xB1Fb0b14Ffea209ABa1e62ff3F2F3DFD2eaa9FE0",
+      "symbol": "USDT",
+      "name": "TT20-USDT",
+      "decimals": 6,
+      "logoURI": "",
+      "tags": ["stablecoin"]
+    },
+    {
       "address": "0x1b3f37aFCE0C509eF4bf846019D2feF8F5ef8657",
       "symbol": "NICER",
       "name": "NICER",
       "decimals": 18,
       "logoURI": "https://static.thundercore.com/tokens/icons/NICER.png",
       "tags": []
+    },
+    {
+      "address": "0xAb2b4a86a9d21AB43B3e2B4B29FF6b8616ED33B6",
+      "symbol": "WBTC",
+      "name": "TT20-Wrapped Bitcoin",
+      "decimals": 8,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "address": "0x1d8e61c62ceC1aabd2c36cd22E54Ba831c805f8B",
+      "symbol": "USDC",
+      "name": "TT20-USD Coin",
+      "decimals": 6,
+      "logoURI": "",
+      "tags": ["stablecoin"]
     }
   ]
 }
