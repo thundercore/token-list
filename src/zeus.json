@@ -16,6 +16,12 @@
       "symbol": "USDT",
       "name": "TT20-USDT",
       "decimals": 6,
+      "description": "",
+      "website": "https://www.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
       "tags": ["stablecoin", "bridgeable"]
     },
     {
@@ -23,6 +29,9 @@
       "symbol": "NICER",
       "name": "NICER",
       "decimals": 18,
+      "description": "",
+      "website": "https://nicer.bet/",
+      "socials": [{ "name": "telegram", "url": "https://t.me/nicerbet" }],
       "tags": []
     },
     {
@@ -30,6 +39,12 @@
       "symbol": "WBTC",
       "name": "TT20-Wrapped Bitcoin",
       "decimals": 8,
+      "description": "",
+      "website": "https://www.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
       "tags": ["bridgeable"]
     },
     {
@@ -37,6 +52,12 @@
       "symbol": "USDC",
       "name": "TT20-USD Coin",
       "decimals": 6,
+      "description": "",
+      "website": "https://www.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
       "tags": ["stablecoin", "bridgeable"]
     }
   ]

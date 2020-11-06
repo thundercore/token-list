@@ -9,7 +9,15 @@ export interface Token {
   symbol: string
   name: string
   decimals: number
+  description?: string
+  website: string
+  socials: Social[]
   tags: string[]
+}
+
+export interface Social {
+  name: string
+  url: string
 }
 
 export interface Tag {
