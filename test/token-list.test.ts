@@ -1,8 +1,16 @@
 import token_list_zeus from '../src/zeus.json'
 import token_list_venus from '../src/venus.json'
 import { Token, List } from '../src/List'
+import { ERC20 } from '../types/web3-v1-contracts/ERC20'
+import Web3 from 'web3'
 
 import { checkAddressChecksum } from 'web3-utils'
+
+const ERC20ABI = require('../abis/ERC20.json')
+const rpcEndpoints: Record<number, string> = {
+  18: 'https://testnet-rpc.thundercore.com',
+  108: 'https://mainnet-rpc.thundercore.com',
+}
 
 describe('token list', () => {
   test('addresses are valid and checksummed', () => {
@@ -12,7 +20,7 @@ describe('token list', () => {
         expect(checkAddressChecksum(token.address)).toBe(true)
       }
     }
-    testOnTokenLists(t)
+    return testOnTokenLists(t)
   })
 
   test('no duplicate addresses/symbols/names', () => {
@@ -25,7 +33,7 @@ describe('token list', () => {
       const names = tokens.map((token) => token.name)
       expect(hasDuplicates(names)).toBe(false)
     }
-    testOnTokenLists(t)
+    return testOnTokenLists(t)
   })
 
   test('valid tags', () => {
@@ -39,7 +47,32 @@ describe('token list', () => {
         }
       }
     }
-    testOnTokenLists(t)
+    return testOnTokenLists(t)
+  })
+
+  test('verify contract info', () => {
+    const verifyToken = (token: Token, contract: ERC20) => {
+      return Promise.all([
+        contract.methods.symbol().call(),
+        contract.methods.name().call(),
+        contract.methods.decimals().call(),
+      ]).then(([s, n, d]) => {
+        expect(s).toBe(token.symbol)
+        expect(n).toBe(token.name)
+        expect(parseInt(d)).toBe(token.decimals)
+      })
+    }
+    const t = (list: List) => {
+      const endpoint = rpcEndpoints[list.chainID]
+      let web3 = new Web3(new Web3.providers.HttpProvider(endpoint))
+      return Promise.all(
+        list.tokens.map((token) => {
+          const contract = (new web3.eth.Contract(ERC20ABI, token.address) as unknown) as ERC20
+          return verifyToken(token, contract)
+        }),
+      )
+    }
+    return testOnTokenLists(t)
   })
 })
 
@@ -49,7 +82,9 @@ function hasDuplicates(a: string[]): Boolean {
 }
 
 function testOnTokenLists(t: (list: List) => void) {
-  for (const list of [token_list_zeus, token_list_venus]) {
-    t(list)
-  }
+  return Promise.all(
+    [token_list_zeus, token_list_venus].map((l) => {
+      return t(l)
+    }),
+  )
 }

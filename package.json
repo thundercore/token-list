@@ -1,15 +1,20 @@
 {
   "name": "token-list",
   "scripts": {
+    "postinstall": "yarn generate-types",
+    "generate-types": "typechain --target=web3-v1 abis/*",
     "test": "jest --config=jest.config.js"
   },
   "version": "1.0.0",
   "description": "@thundercore/token-list",
   "license": "MIT",
   "devDependencies": {
+    "@typechain/web3-v1": "^1.0.0",
     "jest": "^26.6.1",
     "ts-jest": "^26.4.3",
+    "typechain": "^4.0.0",
     "typescript": "^4.0.5",
+    "web3": "^1.3.0",
     "web3-utils": "^1.3.0"
   }
 }

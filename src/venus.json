@@ -13,8 +13,8 @@
   "tokens": [
     {
       "address": "0xB1Fb0b14Ffea209ABa1e62ff3F2F3DFD2eaa9FE0",
-      "symbol": "USDT",
-      "name": "TT20-USDT",
+      "symbol": "TT-USDT",
+      "name": "TT-USDT",
       "decimals": 6,
       "description": "",
       "website": "https://www.thundercore.com/",
@@ -27,8 +27,8 @@
     {
       "address": "0x1b3f37aFCE0C509eF4bf846019D2feF8F5ef8657",
       "symbol": "NICER",
-      "name": "NICER",
-      "decimals": 18,
+      "name": "Nicer Test Token",
+      "decimals": 8,
       "description": "",
       "website": "https://nicer.bet/",
       "socials": [{ "name": "telegram", "url": "https://t.me/nicerbet" }],
@@ -36,8 +36,8 @@
     },
     {
       "address": "0xAb2b4a86a9d21AB43B3e2B4B29FF6b8616ED33B6",
-      "symbol": "WBTC",
-      "name": "TT20-Wrapped Bitcoin",
+      "symbol": "TT-WBTC",
+      "name": "TT-WBTC",
       "decimals": 8,
       "description": "",
       "website": "https://www.thundercore.com/",
@@ -49,8 +49,8 @@
     },
     {
       "address": "0x1d8e61c62ceC1aabd2c36cd22E54Ba831c805f8B",
-      "symbol": "USDC",
-      "name": "TT20-USD Coin",
+      "symbol": "TT-USDC",
+      "name": "TT-USDC",
       "decimals": 6,
       "description": "",
       "website": "https://www.thundercore.com/",
