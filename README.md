@@ -21,21 +21,19 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
    * The token contract must be verified on [Viewblock](https://viewblock.io/thundercore)
 
 ## Decline Listing Policy
-   * Miss any token information mentioned above
-   * Upon verification, if found that the smart contract is malicious, ThunderCore reserves the right to decline/revoke listing.
+- Miss any token information mentioned above
+- Upon verification, if found that the smart contract is malicious, ThunderCore reserves the right to decline/revoke listing.
 
 ## Listing Fee
-      * 1,000 Thunder Token  (TT) per listing 
-      * NOTE: In the case of rejected application, there will be no refund. 
+- 1,000 Thunder Token  (TT) per listing
+- NOTE: In the case of rejected application, there will be no refund. 
 
 ## Listing steps
-         1. Create a pull request to change the `token-list`
-         2. Initiate a transaction to **0x103550d3e41F5e6986aDfDAbaBF610f750932B54**. Its data has a pull request number, and the value must be at least `1000TT`
-         3. Update transaction hash in the pull request
-
+1. Create a pull request to change the `token-list`
+2. Initiate a transaction to **0x103550d3e41F5e6986aDfDAbaBF610f750932B54**. Its data has a pull request number, and the value must be at least `1000TT`
+3. Update transaction hash in the pull request
 
 ## Disclaimer
-         * If your project has not been updated for a period of time or is found to be malicious, ThunderCore reserves the right to remove the token from the ThunderCore Hub.
-         * After your token is listed, it does not mean that ThunderCore has a partnership with your project directly. 
-         * Token listing requests are not guaranteed to be reviewed or executed. 
-
+- If your project has not been updated for a period of time or is found to be malicious, ThunderCore reserves the right to remove the token from the ThunderCore Hub.
+- After your token is listed, it does not mean that ThunderCore has a partnership with your project directly. 
+- Token listing requests are not guaranteed to be reviewed or executed. 
