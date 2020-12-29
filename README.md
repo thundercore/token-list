@@ -33,6 +33,19 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
 2. Initiate a transaction to **0x103550d3e41F5e6986aDfDAbaBF610f750932B54**. Its data has a pull request number, and the value must be at least `1000TT`
 3. Update transaction hash in the pull request
 
+## Your logo information
+- naming convention: `assets/{chain}/{token_address}/logo.png`
+- location: `assets`
+
+## Which files needs to be updated exactly? 
+### If you want to add token to mainnet
+- `src/thundercore.json`
+- `assets/thundercore/{token_address}/logo.png`
+
+### If you want to add token to testnet
+- `src/thundercore-testnet.json`
+- `assets/thundercore-testnet/{token_address}/logo.png`
+
 ## Disclaimer
 - If your project has not been updated for a period of time or is found to be malicious, ThunderCore reserves the right to remove the token from the ThunderCore Hub.
 - After your token is listed, it does not mean that ThunderCore has a partnership with your project directly. 
