@@ -38,7 +38,7 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
 - location: `assets`
 
 ## Which files needs to be updated exactly? 
-### If you want to add token to mainnet, please 
+### If you want to add token to mainnet
 - `src/thundercore.json`
 - `assets/thundercore/{token_address}/logo.png`
 
