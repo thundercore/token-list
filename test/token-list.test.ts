@@ -1,5 +1,5 @@
-import token_list_zeus from '../src/zeus.json'
-import token_list_venus from '../src/venus.json'
+import token_list_mainnet from '../src/thundercore.json'
+import token_list_testnet from '../src/thundercore-testnet.json'
 import { Token, List } from '../src/List'
 import { ERC20 } from '../types/web3-v1-contracts/ERC20'
 import Web3 from 'web3'
@@ -83,7 +83,7 @@ function hasDuplicates(a: string[]): Boolean {
 
 function testOnTokenLists(t: (list: List) => void) {
   return Promise.all(
-    [token_list_zeus, token_list_venus].map((l) => {
+    [token_list_mainnet, token_list_testnet].map((l) => {
       return t(l)
     }),
   )
