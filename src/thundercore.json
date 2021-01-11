@@ -59,6 +59,16 @@
         { "name": "medium", "url": "https://medium.com/thundercore" }
       ],
       "tags": ["stablecoin", "bridgeable"]
+    },
+    {
+      "address": "0xC1E7000f379f2247Ae930ba98d5568cd9D0b924b",
+      "symbol": "RISER",
+      "name": "RISER",
+      "decimals": 18,
+      "description": "",
+      "website": "https://riserdefi.com/",
+      "socials": [{ "name": "telegram", "url": "https://t.me/riserdefi" }],
+      "tags": []
     }
   ]
 }
