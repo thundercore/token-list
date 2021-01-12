@@ -30,7 +30,7 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
 
 ## Listing steps
 1. Create a pull request to change the `token-list`
-2. Initiate a transaction to **0x103550d3e41F5e6986aDfDAbaBF610f750932B54**. Its data has a pull request number, and the value must be at least `1000TT`
+2. Initiate a transaction to **0x103550d3e41F5e6986aDfDAbaBF610f750932B54**. Its data has a **pull request number**, and the value must be at least `1000TT`
 3. Update transaction hash in the pull request
 
 ## Your logo information
