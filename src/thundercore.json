@@ -69,6 +69,18 @@
       "website": "https://riserdefi.com/",
       "socials": [{ "name": "telegram", "url": "https://t.me/riserdefi" }],
       "tags": []
+    },
+    {
+      "address": "0x8C2eeccd83752DB11594e699BBC8f756c4d03Cb9",
+      "symbol": "PUNCH",
+      "name": "Punch",
+      "decimals": 18,
+      "description": "",
+      "website": "https://p.ldnfox.com/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/thundercore_punchline" }
+      ],
+      "tags": []
     }
   ]
 }
