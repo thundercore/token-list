@@ -17,6 +17,7 @@
       "name": "TT-USDT",
       "decimals": 6,
       "description": "",
+      "ttswap_exchange": "0x3e9Ada9F40cD4B5A803cf764EcE1b4Dae6486204",
       "website": "https://www.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
@@ -30,6 +31,7 @@
       "name": "NICER",
       "decimals": 18,
       "description": "",
+      "ttswap_exchange": "0x3FD0D6E5461c535fC3d4C996561763a15334AeCD",
       "website": "https://nicer.bet/",
       "socials": [{ "name": "telegram", "url": "https://t.me/nicerbet" }],
       "tags": []
@@ -40,6 +42,7 @@
       "name": "TT-WBTC",
       "decimals": 8,
       "description": "",
+      "ttswap_exchange": "0x4D5Cade82907D04F89063a27079e026f42aA16Fc",
       "website": "https://www.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
@@ -53,6 +56,7 @@
       "name": "TT-USDC",
       "decimals": 6,
       "description": "",
+      "ttswap_exchange": "0xd8D020934F008FBD10BD2b47263eB4e751aCF1A2",
       "website": "https://www.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
@@ -66,6 +70,7 @@
       "name": "RISER",
       "decimals": 18,
       "description": "",
+      "ttswap_exchange": "0x1d1018C8B2BF965F0077CA25B5D7decb7F70615D",
       "website": "https://riserdefi.com/",
       "socials": [{ "name": "telegram", "url": "https://t.me/riserdefi" }],
       "tags": []

@@ -12,6 +12,7 @@ export interface Token {
   description?: string
   website: string
   socials: Social[]
+  ttswap_exchange: string
   tags: string[]
 }
 

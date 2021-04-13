@@ -14,6 +14,7 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
       * Symbol 
       * Name 
       * Decimals 
+      * TTSwap exchange address (optional)
       * Description (optional) 
    * Contact information of submitter (Twitter / Telegram / Email)
    * Product / Website URL 

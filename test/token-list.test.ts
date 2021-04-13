@@ -18,6 +18,9 @@ describe('token list', () => {
       const tokens = list.tokens
       for (const token of tokens) {
         expect(checkAddressChecksum(token.address)).toBe(true)
+        if (token.ttswap_exchange.length > 0) {
+          expect(checkAddressChecksum(token.ttswap_exchange)).toBe(true)
+        }
       }
     }
     return testOnTokenLists(t)
