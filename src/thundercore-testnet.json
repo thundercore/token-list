@@ -17,6 +17,7 @@
       "name": "TT-USDT",
       "decimals": 6,
       "description": "",
+      "ttswap_exchange": "0x64f44BdfA6B6aB08959B47512d26cc516419BB74",
       "website": "https://www.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
@@ -30,6 +31,7 @@
       "name": "Nicer Test Token",
       "decimals": 8,
       "description": "",
+      "ttswap_exchange": "",
       "website": "https://nicer.bet/",
       "socials": [{ "name": "telegram", "url": "https://t.me/nicerbet" }],
       "tags": []
@@ -40,6 +42,7 @@
       "name": "TT-WBTC",
       "decimals": 8,
       "description": "",
+      "ttswap_exchange": "0x618D1a9292Ba2cC7E8BdfF1C40bdc15177a6f331",
       "website": "https://www.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
@@ -53,6 +56,7 @@
       "name": "TT-USDC",
       "decimals": 6,
       "description": "",
+      "ttswap_exchange": "0xC12c05BE331b7f2eAB3F5f86edEFB0209743D479",
       "website": "https://www.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
