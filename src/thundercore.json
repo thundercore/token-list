@@ -97,6 +97,19 @@
         { "name": "telegram", "url": "https://t.me/thundercore_punchline" }
       ],
       "tags": []
+    },
+    {
+      "address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
+      "symbol": "RAM",
+      "name": "Ram",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x28CC382df937cF3e2aA0f41686329Bb61CF10A11",
+      "website": "https://rammer.finance/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/rammerfinance" }
+      ],
+      "tags": []
     }
   ]
 }
