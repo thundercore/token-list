@@ -65,6 +65,16 @@
       "tags": ["stablecoin", "bridgeable"]
     },
     {
+      "address": "0xC35a7A4adee299Bf44A32977647b3651D1378755",
+      "symbol": "MMKC",
+      "name": "Myanmar Kyat Coin",
+      "decimals": 6,
+      "description": "Myanmar Kyat Coin (MMKC) is a digital stablecoin that is bound with the Myanmar Kyat and runs on the ThunderCore blockchain.  MMKC is backed by fiat currency to keep value within the crypto market.",
+      "website": "https://reurl.cc/e9Y0M7",
+      "socials": [{ "name": "email", "url": "mmkc.official@protonmail.com" }],
+      "tags": []
+    },
+    {
       "address": "0xC1E7000f379f2247Ae930ba98d5568cd9D0b924b",
       "symbol": "RISER",
       "name": "RISER",
