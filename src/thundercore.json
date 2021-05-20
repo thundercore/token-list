@@ -99,6 +99,32 @@
       "tags": []
     },
     {
+      "address": "0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10",
+      "symbol": "OOL",
+      "name": "Oolong",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x5179Cdc003f5d993E91b5C1989bE24b993721068",
+      "website": "https://oolong.fi/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/oolongfinance" },
+        { "name": "twitter", "url": "https://twitter.com/oolong_finance" },
+        { "name": "gitbook", "url": "https://oolong-fi.gitbook.io/oolong-finance/" }
+      ],
+      "tags": []
+    },
+    {
+      "address": "0x5E074fde1452F68FB30b314E10a0690BCDbB70DB",
+      "symbol": "oTT",
+      "name": "Oolong TTpot",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "",
+      "website": "https://oolong.fi/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/oolongfinance" },
+        { "name": "twitter", "url": "https://twitter.com/oolong_finance" },
+        { "name": "gitbook", "url": "https://oolong-fi.gitbook.io/oolong-finance/" }
       "address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
       "symbol": "RAM",
       "name": "Ram",
