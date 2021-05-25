@@ -93,9 +93,7 @@
       "decimals": 18,
       "description": "",
       "website": "https://p.ldnfox.com/",
-      "socials": [
-        { "name": "telegram", "url": "https://t.me/thundercore_punchline" }
-      ],
+      "socials": [{ "name": "telegram", "url": "https://t.me/thundercore_punchline" }],
       "tags": []
     },
     {
@@ -125,6 +123,10 @@
         { "name": "telegram", "url": "https://t.me/oolongfinance" },
         { "name": "twitter", "url": "https://twitter.com/oolong_finance" },
         { "name": "gitbook", "url": "https://oolong-fi.gitbook.io/oolong-finance/" }
+      ],
+      "tags": []
+    },
+    {
       "address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
       "symbol": "RAM",
       "name": "Ram",
@@ -132,8 +134,21 @@
       "description": "",
       "ttswap_exchange": "0x28CC382df937cF3e2aA0f41686329Bb61CF10A11",
       "website": "https://rammer.finance/",
+      "socials": [{ "name": "telegram", "url": "https://t.me/rammerfinance" }],
+      "tags": []
+    },
+    {
+      "address": "0xe15c1cbF2de3fd15864F48A66b9da07736dAF578",
+      "symbol": "GuessToken",
+      "name": "GuessToken",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x71783060cE590992ba0652dd3CDb610B93260C6C",
+      "website": "https://ttguess-b5023.web.app/",
       "socials": [
-        { "name": "telegram", "url": "https://t.me/rammerfinance" }
+        { "name": "telegram", "url": "https://telegram.me//ttguesss" },
+        { "name": "twitter", "url": "https://twitter.com/ttguessofficial" },
+        { "name": "medium", "url": "https://ttguess.medium.com/" }
       ],
       "tags": []
     }
