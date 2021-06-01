@@ -99,6 +99,21 @@
       "tags": []
     },
     {
+      "address": "0xe15c1cbF2de3fd15864F48A66b9da07736dAF578",
+      "symbol": "GuessToken",
+      "name": "GuessToken",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x71783060cE590992ba0652dd3CDb610B93260C6C",
+      "website": "https://ttguess-b5023.web.app/",
+      "socials": [
+        { "name": "telegram", "url": "https://telegram.me//ttguesss" },
+        { "name": "twitter", "url": "https://twitter.com/ttguessofficial" },
+        { "name": "medium", "url": "https://ttguess.medium.com/" }
+      ],
+      "tags": []
+    },
+    {
       "address": "0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10",
       "symbol": "OOL",
       "name": "Oolong",
