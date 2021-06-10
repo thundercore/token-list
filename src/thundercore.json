@@ -140,6 +140,7 @@
         { "name": "telegram", "url": "https://t.me/oolongfinance" },
         { "name": "twitter", "url": "https://twitter.com/oolong_finance" },
         { "name": "gitbook", "url": "https://oolong-fi.gitbook.io/oolong-finance/" }
+      ],
       "address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
       "symbol": "RAM",
       "name": "Ram",
