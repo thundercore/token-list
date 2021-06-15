@@ -114,6 +114,17 @@
       "tags": []
     },
     {
+      "address": "0xFCDEa9f405bc6bd85C2e90c1DEbB9F3ca7a59D8f",
+      "symbol": "DICEZ",
+      "name": "DICEZ",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x1355cabc77854e123113b02964a0c39d2ea5f0c8",
+      "website": "https://dice.zippydapps.com/",
+      "socials": [{ "name": "telegram", "url": "https://t.me/zippydapps" }],
+      "tags": []
+    },
+    {
       "address": "0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10",
       "symbol": "OOL",
       "name": "Oolong",
