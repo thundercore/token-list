@@ -70,7 +70,7 @@
       "name": "Myanmar Kyat Coin",
       "decimals": 6,
       "description": "Myanmar Kyat Coin (MMKC) is a digital stablecoin that is bound with the Myanmar Kyat and runs on the ThunderCore blockchain.  MMKC is backed by fiat currency to keep value within the crypto market.",
-      "ttswap_exchange": "0x7e16d9ac3f54ab50f45a7b58b31c993cf8026152",
+      "ttswap_exchange": "0x7e16d9AC3f54aB50F45a7b58B31C993Cf8026152",
       "website": "https://reurl.cc/e9Y0M7",
       "socials": [{ "name": "email", "url": "mmkc.official@protonmail.com" }],
       "tags": []
@@ -92,6 +92,7 @@
       "name": "Punch",
       "decimals": 18,
       "description": "",
+      "ttswap_exchange": "",
       "website": "https://p.ldnfox.com/",
       "socials": [
         { "name": "telegram", "url": "https://t.me/thundercore_punchline" }
@@ -141,6 +142,9 @@
         { "name": "twitter", "url": "https://twitter.com/oolong_finance" },
         { "name": "gitbook", "url": "https://oolong-fi.gitbook.io/oolong-finance/" }
       ],
+      "tags": []
+    },
+    {
       "address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
       "symbol": "RAM",
       "name": "Ram",
