@@ -115,6 +115,17 @@
       "tags": []
     },
     {
+      "address": "0xD46d770b3032D92D9E1d4e5B925bB8840cDB4314",
+      "symbol": "ZIPPY",
+      "name": "Zippy",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0xEfF4108645593329235eDaD644eC2eC1a63cF764",
+      "website": "https://zippydapps.com/",
+      "socials": [{ "name": "telegram", "url": "https://t.me/zippydapps" }],
+      "tags": []
+    },
+    {
       "address": "0xFCDEa9f405bc6bd85C2e90c1DEbB9F3ca7a59D8f",
       "symbol": "DICEZ",
       "name": "Zippy Dice",
