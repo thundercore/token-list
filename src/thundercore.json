@@ -167,6 +167,19 @@
       "tags": []
     },
     {
+      "address": "0x6E690DaC861fE7441770f84146F263d1CFBE909C",
+      "symbol": "ACORN",
+      "name": "Acorn",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x1356D3BBF34451b624d5Ae10A498bB01DEbBc8B8",
+      "website": "https://acornstable.fi/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/acornstable" }
+      ],
+      "tags": []
+    },
+    {
       "address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
       "symbol": "RAM",
       "name": "Ram",
