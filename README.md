@@ -23,11 +23,11 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
 
 ## Decline Listing Policy
 - Miss any token information mentioned above
-- Upon verification, if found that the smart contract is malicious, ThunderCore reserves the right to decline/revoke listing.
+- Upon verification, if found that the smart contract is malicious, ThunderCore reserves the right to decline/revoke listing
 
 ## Listing Fee
-- 1,000 Thunder Token  (TT) per listing
-- NOTE: In the case of rejected application, there will be no refund. 
+- 1,000 Thunder Token (TT) per PR (including token information modification)
+- NOTE: In the case of rejected application, there will be no refund 
 
 ## Listing steps
 1. Create a pull request to change the `token-list`
