@@ -137,6 +137,17 @@
       "tags": []
     },
     {
+      "address": "0x152FeA8177a31F4FE1cDe7AdaB12C744F1860166",
+      "symbol": "HODLZ",
+      "name": "Zippy Hodl",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x3617791699A6520Ef0E09d696a1Dd9357fbFF245",
+      "website": "https://hodl.zippydapps.com/",
+      "socials": [{ "name": "telegram", "url": "https://t.me/zippydapps" }],
+      "tags": []
+    },
+    {
       "address": "0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10",
       "symbol": "OOL",
       "name": "Oolong",
