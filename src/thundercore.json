@@ -202,6 +202,19 @@
         { "name": "telegram", "url": "https://t.me/rammerfinance" }
       ],
       "tags": []
+    },
+    {
+      "address": "0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA",
+      "symbol": "FTT",
+      "name": "Farm Thunder Token",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0xc54d9feca39b8c9c65062f7732045e0aacf653d4",
+      "website": "https://ttfarm.xyz/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/ttfarm" }
+      ],
+      "tags": []
     }
   ]
 }
