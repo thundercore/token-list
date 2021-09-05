@@ -18,23 +18,12 @@
       "decimals": 6,
       "description": "",
       "ttswap_exchange": "0x64f44BdfA6B6aB08959B47512d26cc516419BB74",
-      "website": "https://www.thundercore.com/",
+      "website": "https://bridge.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
         { "name": "medium", "url": "https://medium.com/thundercore" }
       ],
       "tags": ["stablecoin", "bridgeable"]
-    },
-    {
-      "address": "0x1b3f37aFCE0C509eF4bf846019D2feF8F5ef8657",
-      "symbol": "NICER",
-      "name": "Nicer Test Token",
-      "decimals": 8,
-      "description": "",
-      "ttswap_exchange": "",
-      "website": "https://nicer.bet/",
-      "socials": [{ "name": "telegram", "url": "https://t.me/nicerbet" }],
-      "tags": []
     },
     {
       "address": "0xAb2b4a86a9d21AB43B3e2B4B29FF6b8616ED33B6",
@@ -43,7 +32,7 @@
       "decimals": 8,
       "description": "",
       "ttswap_exchange": "0x618D1a9292Ba2cC7E8BdfF1C40bdc15177a6f331",
-      "website": "https://www.thundercore.com/",
+      "website": "https://bridge.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
         { "name": "medium", "url": "https://medium.com/thundercore" }
@@ -57,12 +46,82 @@
       "decimals": 6,
       "description": "",
       "ttswap_exchange": "0xC12c05BE331b7f2eAB3F5f86edEFB0209743D479",
-      "website": "https://www.thundercore.com/",
+      "website": "https://bridge.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
         { "name": "medium", "url": "https://medium.com/thundercore" }
       ],
       "tags": ["stablecoin", "bridgeable"]
+    },
+    {
+      "address": "0x6757D10620c46219aF1E2f0E23144682d1aDBCC2",
+      "symbol": "TT-ETH",
+      "name": "TT-ETH",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x8d3b003f281ae972fce61a25166e85a67bd2f23a",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["bridgeable"]
+    },
+    {
+      "address": "0x0538575FD08d69166AB528aA62C1ba46E3cA3Ae8",
+      "symbol": "TT-BUSD",
+      "name": "TT-BUSD",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0xd8d259d357ae8722e28b55c169d3ddf84168e6e0",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["stablecoin", "bridgeable"]
+    },
+    {
+      "address": "0xCFefA2AeA9f067A366Ab5c403DABe0139b5a5f15",
+      "symbol": "TT-BNB",
+      "name": "TT-BNB",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x6b5f62880cae5b05bfdc9c5b287d33ef11d856c4",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["bridgeable"]
+    },
+    {
+      "address": "0x4e1bc4ba628ac43eec2c53c1c8e7272c97326814",
+      "symbol": "TT-HUSD",
+      "name": "TT-HUSD",
+      "decimals": 8,
+      "description": "",
+      "ttswap_exchange": "0x6f841f6535efcccc5c7cfb17085df1bf2291567a",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["stablecoin", "bridgeable"]
+    },
+    {
+      "address": "0xe2EbeA99b39FbB8A3eA599F39b015B73674Ca041",
+      "symbol": "TT-HT",
+      "name": "TT-HT",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x6bb2a589d86c1041f41f8e9b8120409ac3d35621",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["bridgeable"]
     }
   ]
 }

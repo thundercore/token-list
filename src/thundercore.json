@@ -18,23 +18,12 @@
       "decimals": 6,
       "description": "",
       "ttswap_exchange": "0x3e9Ada9F40cD4B5A803cf764EcE1b4Dae6486204",
-      "website": "https://www.thundercore.com/",
+      "website": "https://bridge.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
         { "name": "medium", "url": "https://medium.com/thundercore" }
       ],
       "tags": ["stablecoin", "bridgeable"]
-    },
-    {
-      "address": "0x1F489E0282cFA883A4224C91309bC4D4c062ed93",
-      "symbol": "NICER",
-      "name": "NICER",
-      "decimals": 18,
-      "description": "",
-      "ttswap_exchange": "0x3FD0D6E5461c535fC3d4C996561763a15334AeCD",
-      "website": "https://nicer.bet/",
-      "socials": [{ "name": "telegram", "url": "https://t.me/nicerbet" }],
-      "tags": []
     },
     {
       "address": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
@@ -43,7 +32,7 @@
       "decimals": 8,
       "description": "",
       "ttswap_exchange": "0x4D5Cade82907D04F89063a27079e026f42aA16Fc",
-      "website": "https://www.thundercore.com/",
+      "website": "https://bridge.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
         { "name": "medium", "url": "https://medium.com/thundercore" }
@@ -57,12 +46,93 @@
       "decimals": 6,
       "description": "",
       "ttswap_exchange": "0xd8D020934F008FBD10BD2b47263eB4e751aCF1A2",
-      "website": "https://www.thundercore.com/",
+      "website": "https://bridge.thundercore.com/",
       "socials": [
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
         { "name": "medium", "url": "https://medium.com/thundercore" }
       ],
       "tags": ["stablecoin", "bridgeable"]
+    },
+    {
+      "address": "0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
+      "symbol": "TT-ETH",
+      "name": "TT-ETH",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0xa91f09a91ea6c5fcb2f4953fd0383b55506e8d52",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["bridgeable"]
+    },
+    {
+      "address": "0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
+      "symbol": "TT-BUSD",
+      "name": "TT-BUSD",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x0646ccb4983a65b1ad6b7c34d62fe2fcfbbd8b1b",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["bridgeable"]
+    },
+    {
+      "address": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+      "symbol": "TT-BNB",
+      "name": "TT-BNB",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x2fdc081adba636458965927c66e124f7bf0b7c9f",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["bridgeable"]
+    },
+    {
+      "address": "0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d",
+      "symbol": "TT-HUSD",
+      "name": "TT-HUSD",
+      "decimals": 8,
+      "description": "",
+      "ttswap_exchange": "0x20c198e0ade7695d70953dac32a2904151cba0ee",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["bridgeable"]
+    },
+    {
+      "address": "0x0212b1F75503413b01A98158434c4570FB6e808c",
+      "symbol": "TT-HT",
+      "name": "TT-HT",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x77fa7040447745bc8ff4d519afeecfffcb0cdd57",
+      "website": "https://bridge.thundercore.com/",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
+        { "name": "medium", "url": "https://medium.com/thundercore" }
+      ],
+      "tags": ["bridgeable"]
+    },
+    {
+      "address": "0x1F489E0282cFA883A4224C91309bC4D4c062ed93",
+      "symbol": "NICER",
+      "name": "NICER",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x3FD0D6E5461c535fC3d4C996561763a15334AeCD",
+      "website": "https://nicer.bet/",
+      "socials": [{ "name": "telegram", "url": "https://t.me/nicerbet" }],
+      "tags": []
     },
     {
       "address": "0xC35a7A4adee299Bf44A32977647b3651D1378755",
@@ -92,7 +162,7 @@
       "name": "Punch",
       "decimals": 18,
       "description": "",
-      "ttswap_exchange": "",
+      "ttswap_exchange": "0xbf1754ba478267e88b40a488acf78e56a7deba6e",
       "website": "https://p.ldnfox.com/",
       "socials": [
         { "name": "telegram", "url": "https://t.me/thundercore_punchline" }
