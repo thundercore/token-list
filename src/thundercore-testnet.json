@@ -125,8 +125,8 @@
     },
     {
       "address": "0x14cb5Fe5b7803120816c0117d0a284F79578D42a",
-      "symbol": "Decimal 18",
-      "name": "DEC18",
+      "symbol": "DEC18",
+      "name": "Decimal 18",
       "decimals": 18,
       "description": "",
       "ttswap_exchange": "0x64498f9dc4be2cf8aae4fc5a6d1eb1fa342a0da0",
@@ -139,8 +139,8 @@
     },
     {
       "address": "0x17BE63fe855e9Ea6BC80907cd0BDb70A3C4ee40f",
-      "symbol": "Decimal 6",
-      "name": "DEC6",
+      "symbol": "DEC6",
+      "name": "Decimal 6",
       "decimals": 6,
       "description": "",
       "ttswap_exchange": "0xef7a527221aa04d3649a4c8da8b05e85527de6de",
