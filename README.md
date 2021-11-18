@@ -1,7 +1,7 @@
 # How to add  your Token to ThunderCore Hub ⚡️
 
 ## Intro
-This intro shows you how to list your token on to the ThunderCore Hub, a cryptocurrency wallet with a DAU (Daily Average Users) exceeding 35K. Your tokens will have a chance of achieving great success!
+This intro shows you how to list your token on to the ThunderCore Hub, a cryptocurrency wallet with a DAU (Daily Average Users) exceeding 70K. Your tokens will have a chance of achieving great success!
 
 ThunderCore strives to create a platform full of opportunities, rich with content and have many users for developers. You can achieve your dreams here in the ThunderCore community! 
 
