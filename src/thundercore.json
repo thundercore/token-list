@@ -79,7 +79,7 @@
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
         { "name": "medium", "url": "https://medium.com/thundercore" }
       ],
-      "tags": ["bridgeable"]
+      "tags": ["stablecoin", "bridgeable"]
     },
     {
       "address": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
@@ -107,7 +107,7 @@
         { "name": "twitter", "url": "https://twitter.com/ThunderProtocol" },
         { "name": "medium", "url": "https://medium.com/thundercore" }
       ],
-      "tags": ["bridgeable"]
+      "tags": ["stablecoin", "bridgeable"]
     },
     {
       "address": "0x0212b1F75503413b01A98158434c4570FB6e808c",
@@ -283,6 +283,28 @@
       "website": "https://ttfarm.xyz/",
       "socials": [
         { "name": "telegram", "url": "https://t.me/ttfarm" }
+      ],
+      "tags": []
+    },
+    {
+      "address": "0x9BAFB0Da04147276711721627Bf37b026dbfe10F",
+      "symbol": "NUM",
+      "name": "NUM Token",
+      "decimals": 18,
+      "description": "A decentralised photo network, for creating community, value and trust in digital media.",
+      "ttswap_exchange": "",
+      "website": "https://www.numbersprotocol.io/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/numbersprotocol" },
+        { "name": "github", "url": "https://github.com/numbersprotocol" },
+        { "name": "linkedin", "url": "https://www.linkedin.com/company/numbersprotocol" },
+        { "name": "twitter", "url": "https://twitter.com/numbersprotocol" },
+        { "name": "coinmarketcap", "url": "https://coinmarketcap.com/currencies/numbers-protocol" },
+        { "name": "coingecko", "url": "https://www.coingecko.com/en/coins/numbers-protocol" },
+        { "name": "medium", "url": "https://medium.com/numbers-protocol" },
+        { "name": "discord", "url": "https://discord.gg/rtef8kJH" },
+        { "name": "reddit", "url": "https://www.reddit.com/r/NumbersProtocolIO" },
+        { "name": "youtube", "url": "https://www.youtube.com/channel/UC9aIubRdrhLoSVb9xALFpUg" }
       ],
       "tags": []
     }
