@@ -307,6 +307,25 @@
         { "name": "youtube", "url": "https://www.youtube.com/channel/UC9aIubRdrhLoSVb9xALFpUg" }
       ],
       "tags": []
+    },
+    {
+      "address": "0x9b208b117b2c4f76c1534b6f006b033220a681a4",
+      "symbol": "wDingocoin",
+      "name": "Wrapped Dingocoin",
+      "decimals": 8,
+      "description": "Dingocoin wrapped on the BSC chain",
+      "ttswap_exchange": "",
+      "website": "https://dingocoin.org/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/DingoCoinTalk" },
+        { "name": "github", "url": "https://github.com/dingocoin/dingocoin" },
+        { "name": "twitter", "url": "https://twitter.com/dingocoincrypto" },
+        { "name": "coinmarketcap", "url": "https://coinmarketcap.com/currencies/dingocoin/" },
+        { "name": "coingecko", "url": "https://www.coingecko.com/en/coins/dingocoin" },
+        { "name": "discord", "url": "https://discord.gg/y3J946HFQM" },
+        { "name": "reddit", "url": "https://www.reddit.com/r/dingocoin" }
+      ],
+      "tags": []
     }
   ]
 }
