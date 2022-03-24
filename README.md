@@ -26,7 +26,7 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
 - Upon verification, if found that the smart contract is malicious, ThunderCore reserves the right to decline/revoke listing
 
 ## Listing Fee
-- 1,000 Thunder Token (TT) per PR (including token information modification)
+- 1,000 ThunderCore (TT) per PR (including token information modification)
 - NOTE: In the case of rejected application, there will be no refund 
 
 ## Listing steps
