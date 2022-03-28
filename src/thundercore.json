@@ -307,6 +307,17 @@
         { "name": "youtube", "url": "https://www.youtube.com/channel/UC9aIubRdrhLoSVb9xALFpUg" }
       ],
       "tags": []
+    },
+    {
+      "address": "0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7",
+      "symbol": "PMT",
+      "name": "Planet Master Token",
+      "decimals": 18,
+      "description": "Collect Planet Master Token to unbox the treasure chest!",
+      "ttswap_exchange": "0x762d27f9aBe403FD9F1FD092bb1ddFf18e27274E",
+      "website": "https://master.diceplanet.xyz/",
+      "socials": [{ "name": "email", "url": "diceplanet@gmail.com" }],
+      "tags": []
     }
   ]
 }
