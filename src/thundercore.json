@@ -309,6 +309,18 @@
       "tags": []
     },
     {
+      "address": "0x0052a491416ba3e7381f8d06dce126584bccfee8",
+      "symbol": "Chat TT",
+      "name": "Chat Thunder",
+      "decimals": 18,
+      "description": "Chat thunder token (Chat TT) is the official token of Chat Thunder social community and news forum",
+      "ttswap_exchange": "0xcb10241d3eFB0339466FE2b79dE8bE2564e1DD56",
+      "website": "https://Chatthunder.site/",
+      "socials": [
+    { "name": "telegram", "url": "https://t.me/chat_thunder" } 
+    { "name": "email", "url": "info@chatthunder.site" }
+    },
+    {
       "address": "0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7",
       "symbol": "PMT",
       "name": "Planet Master Token",
