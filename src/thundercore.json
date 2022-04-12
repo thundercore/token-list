@@ -135,6 +135,17 @@
       "tags": []
     },
     {
+      "address": "0x0052a491416ba3e7381f8d06dce126584bccfee8",
+      "symbol": "Chat TT",
+      "name": "Chat Thunder",
+      "decimals": 18,
+      "description": "Chat thunder token (Chat TT) is the official token of Chat Thunder social community and news forum",
+      "ttswap_exchange": "0xcb10241d3eFB0339466FE2b79dE8bE2564e1DD56",
+      "website": "https://Chatthunder.site/",
+      "socials": [{ "name": "telegram", "url": "https://t.me/chat_thunder" } 
+        { "name": "email", "url": "info@chatthunder.site" }
+    },
+    {
       "address": "0xC35a7A4adee299Bf44A32977647b3651D1378755",
       "symbol": "MMKC",
       "name": "Myanmar Kyat Coin",
