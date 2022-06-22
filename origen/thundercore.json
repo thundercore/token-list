@@ -307,6 +307,19 @@
         { "name": "youtube", "url": "https://www.youtube.com/channel/UC9aIubRdrhLoSVb9xALFpUg" }
       ],
       "tags": []
-    }
-  ]
+    },
+    {
+      "address": "0xbD708f451215f9De0b4dCa9eAB2f19820aEbbeC2",
+      "symbol": "MT",
+      "name": "MoneyThunder",
+      "decimals": 18,
+      "description": "",
+      "ttswap_exchange": "0x6a009e3a5C1dE8Bec4712D7b470437D7E24842Ab",
+      "website": "https://cryptomt.wordpress.com",
+      "socials": [
+        { "name": "twitter", "url": "https://www.twitter.com/moneythundermt" }
+      ],
+      "tags": []
+     }
+   ]
 }
