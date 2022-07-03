@@ -330,7 +330,10 @@
       "website": "https://Chatthunder.site/",
       "socials": [{ "name": "telegram", "url": "https://t.me/chat_thunder" } 
     { "name": "email", "url": "info@chatthunder.site" 
-      "address": "0x333333331193762b9dd5828fA91aFA40d8432B7A",
+    },
+    {
+      
+     "address": "0x333333331193762b9dd5828fA91aFA40d8432B7A",
       "symbol": "XY",
       "name": "XY Token",
       "decimals": 18,
