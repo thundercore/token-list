@@ -320,6 +320,7 @@
       "tags": []
     },
     {
+
       "address": "0x0052a491416ba3e7381f8d06dce126584bccfee8",
       "symbol": "Chat TT",
       "name": "Chat Thunder",
@@ -328,7 +329,21 @@
       "ttswap_exchange": "0xcb10241d3eFB0339466FE2b79dE8bE2564e1DD56",
       "website": "https://Chatthunder.site/",
       "socials": [{ "name": "telegram", "url": "https://t.me/chat_thunder" } 
-    { "name": "email", "url": "info@chatthunder.site" }
+    { "name": "email", "url": "info@chatthunder.site" 
+      "address": "0x333333331193762b9dd5828fA91aFA40d8432B7A",
+      "symbol": "XY",
+      "name": "XY Token",
+      "decimals": 18,
+      "description": "XY Finance is the best one-stop cross-chain aggregator for DeFi and Metaverse. Our mission is to facilitate the seamless and secure transfer of on-chain assets, including tokens, NFTs, and more, between all blockchains.",
+      "ttswap_exchange": "0x280c9Df92f9a352d8eFA81EE90b71cd511AFE769",
+      "website": "https://xy.finance/",
+      "socials": [
+        { "name": "email", "url": "contact@xy.finance" },
+        { "name": "telegram", "url": "https://t.me/xyfinance‌" },
+        { "name": "twitter", "url": "https://twitter.com/xyfinance" },
+        { "name": "discord", "url": "https://discord.gg/xyfinance" }
+      ],
+      "tags": [
     }
   ]
 }
