@@ -1,7 +1,7 @@
-# How to add  your Token to ThunderCore Hub ⚡️
+# How to add  your Token to TT Wallet ⚡️
 
 ## Intro
-This intro shows you how to list your token on to the ThunderCore Hub, a cryptocurrency wallet with a DAU (Daily Average Users) exceeding 70K. Your tokens will have a chance of achieving great success!
+This intro shows you how to list your token on to the TT Wallet, a cryptocurrency wallet with a DAU (Daily Average Users) exceeding 70K. Your tokens will have a chance of achieving great success!
 
 ThunderCore strives to create a platform full of opportunities, rich with content and have many users for developers. You can achieve your dreams here in the ThunderCore community! 
 
@@ -48,6 +48,6 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
 - `assets/thundercore-testnet/{token_address}/logo.png`
 
 ## Disclaimer
-- If your project has not been updated for a period of time or is found to be malicious, ThunderCore reserves the right to remove the token from the ThunderCore Hub.
+- If your project has not been updated for a period of time or is found to be malicious, ThunderCore reserves the right to remove the token from the TT Wallet.
 - After your token is listed, it does not mean that ThunderCore has a partnership with your project directly. 
 - Token listing requests are not guaranteed to be reviewed or executed. 
