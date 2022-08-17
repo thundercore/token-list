@@ -334,6 +334,21 @@
         { "name": "discord", "url": "https://discord.gg/xyfinance" }
       ],
       "tags": []
-    }
+    },
+    {
+      "address": "0xD3e916699dA7266EF673d10342334e25cfFc2Ab6",
+      "symbol": "Dolphin",
+      "name": "Dolphin",
+      "decimals": 18,
+      "description": "Super power token for everone",
+      "ttswap_exchange": "0x6a50c7bd3d60ce526346aa9e0767c1782f7d9f5f",
+      "website": "https://ttguess-b5023.web.app/",
+      "socials": [
+        { "name": "telegram", "url": "https://telegram.me//ttguesss" },
+        { "name": "twitter", "url": "https://twitter.com/ttguessofficial" },
+        { "name": "medium", "url": "https://ttguess.medium.com/" }
+      ],
+      "tags": []
+    },
   ]
 }
