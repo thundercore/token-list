@@ -150,17 +150,6 @@
         { "name": "medium", "url": "https://medium.com/thundercore" }
       ],
       "tags": []
-    },
-    {
-      "address": "0xba03da3728eb010bFeed375e55ba0Ec8A9dd79ef",
-      "symbol": "TFN",
-      "name": "Techno Fun",
-      "decimals": 18,
-      "description": "Token that used to reward players or users TFN ecosytem",
-      "ttswap_exchange": "0x0a8Eae4424776b5F5B8F86C6096cbfD0fb696aE5",
-      "website": "https://tfunfun.xyz/",
-      "socials": [{ "name": "email", "url": "tfunfun.22@gmail.com" }],
-      "tags": []
     }
   ]
 }
