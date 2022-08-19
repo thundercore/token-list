@@ -320,6 +320,17 @@
       "tags": []
     },
     {
+      "address": "0xFA9DbFc80A3cFdd7192ccee23567d7bA58ea6F07",
+      "symbol": "TFN",
+      "name": "Techno Fun",
+      "decimals": 18,
+      "description": "Token that used to reward players or users TFN ecosytem",
+      "ttswap_exchange": "0x36cD484F5Bd77a9B14576C04600bFb62dbDB36A0",
+      "website": "https://tfunfun.xyz/",
+      "socials": [{ "name": "email", "url": "tfunfun.22@gmail.com" }],
+      "tags": []
+    },
+    {
       "address": "0x333333331193762b9dd5828fA91aFA40d8432B7A",
       "symbol": "XY",
       "name": "XY Token",
