@@ -124,6 +124,29 @@
       "tags": ["bridgeable"]
     },
     {
+      "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+      "symbol": "GEM",
+      "name": "NFTmall GEM Token",
+      "decimals": 18,
+      "description": "GEM is the Utility & Governance Token of NFTmall.io.",
+      "ttswap_exchange": "0x69d824D2e0D4769fFe6C0c5De0d0D41F9Ac744D3",
+      "website": "https://NFTmall.io/",
+      "socials": [
+        { "name": "email", "url": "info@NFTmall.io" },
+        { "name": "telegram", "url": "https://t.me/NFTmallio" },
+        { "name": "github", "url": "https://github.com/NFTmall" },
+        { "name": "linkedin", "url": "https://www.linkedin.com/company/nftmall/" },
+        { "name": "twitter", "url": "https://twitter.com/NFTmall" },
+        { "name": "coinmarketcap", "url": "https://coinmarketcap.com/currencies/NFTmall" },
+        { "name": "coingecko", "url": "https://www.coingecko.com/en/coins/NFTmall" },
+        { "name": "medium", "url": "https://medium.com/NFTmall" },
+        { "name": "discord", "url": "https://discord.gg/SG4GGYMXvJ" },
+        { "name": "reddit", "url": "https://reddit.com/u/NFTmallOfficial" },
+        { "name": "youtube", "url": "https://www.youtube.com/channel/UCF563MOQhJYfWgW1L9TDEHQ" }
+      ],
+      "tags": []
+    },
+    {
       "address": "0x1F489E0282cFA883A4224C91309bC4D4c062ed93",
       "symbol": "NICER",
       "name": "NICER",
