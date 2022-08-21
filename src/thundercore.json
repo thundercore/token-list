@@ -345,6 +345,21 @@
         { "name": "discord", "url": "https://discord.gg/xyfinance" }
       ],
       "tags": []
+    },
+    {
+      "address": "0xF0F35015Fd4879Ef73Dfc1abbB29226AfBF53186",
+      "symbol": "3Star",
+      "name": "3Star",
+      "decimals": 18,
+      "description": "Let everyone be a shareHolder of TT 3Star.",
+      "ttswap_exchange": "0x7d17713bd555D89fF21664F20D45419F470ca1Eb",
+      "website": "https://www.threestar.fun/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/ThreeStarDapp‌" },
+        { "name": "twitter", "url": "https://twitter.com/3star_tt" },
+        { "name": "email", "url": "sasakevin7@outlook.com" }
+      ],
+      "tags": []
     }
   ]
 }
