@@ -347,12 +347,12 @@
       "tags": []
     },
     {
-      "address": "0xF0F35015Fd4879Ef73Dfc1abbB29226AfBF53186",
-      "symbol": "3Star",
-      "name": "3Star",
+      "address": "0xa8Dc2bE06c36AdAA4A4E1B22cC92b6dE64f49f72",
+      "symbol": "Star",
+      "name": "Star",
       "decimals": 18,
       "description": "Let everyone be a shareHolder of TT 3Star.",
-      "ttswap_exchange": "0x7d17713bd555D89fF21664F20D45419F470ca1Eb",
+      "ttswap_exchange": "0x8162b644ccb15cAC48093f9e9794f05cE19Fa2b0",
       "website": "https://www.threestar.fun/",
       "socials": [
         { "name": "telegram", "url": "https://t.me/ThreeStarDapp‌" },
