@@ -384,5 +384,20 @@
       ],
       "tags": []
     },
+    {
+      "address": "0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0",
+      "symbol": "Prize",
+      "name": "Prize",
+      "decimals": 18,
+      "description":"Stake Prize tokens in Dividend to earn passive income.",
+      "ttswap_exchange": "0x4456A109F7E9079d35567FD919255027dC7fB3F9",
+      "website": "https://www.prize-dapp.com/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/tt_prize" },
+        { "name": "twitter", "url": "https://twitter.com/tt_prize" },
+        { "name": "email", "url": "ttprize@outlook.com" }
+      ],
+      "tags": []
+      },
   ]
 }
