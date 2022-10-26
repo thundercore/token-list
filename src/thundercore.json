@@ -398,6 +398,21 @@
         { "name": "email", "url": "ttprize@outlook.com" }
       ],
       "tags": []
-      },
+    },
+		{
+      "address": "0xb8049b3bd885714c6cc795820e62ce445bd1ac17",
+      "symbol": "TULPA",
+      "name": "Tulpa Coin",
+      "decimals": 18,
+      "description":"『塔帕幣』：在轉生過程中與你一同誕生至此世界，似乎是建構世界的基本元素之一，能用它轉換成精靈石或購買具有特殊賦能的NFT系列產品",
+      "ttswap_exchange": "0x1aF364e4E9fF09e35a75b4Ea0f657e5E725Dbe88",
+      "website": "https://worldoftulpa.link/index",
+      "socials": [
+        { "name": "twitter", "url": "https://twitter.com/worldoftulpa" },
+				{ "name": "instagram", "url": "https://instagram.com/worldoftulpa" },
+        { "name": "email", "url": "worldoftulpa@gmail.com" }
+      ],
+      "tags": []
+    },
   ]
 }
