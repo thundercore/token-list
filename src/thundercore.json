@@ -398,6 +398,21 @@
         { "name": "email", "url": "ttprize@outlook.com" }
       ],
       "tags": []
-      },
+    },
+    {
+      "address": "0xab2aacf20b163e68e0a318aa8fee7e023b17ccd9",
+      "symbol": "Shark",
+      "name": "Shark",
+      "decimals": 18,
+      "description": "Super power token for everone",
+      "ttswap_exchange": "0x702e4d170a8bc4ec0ce10dfa71fbe55c0e763e59",
+      "website": "https://ttguess-b5023.web.app/",
+      "socials": [
+        { "name": "telegram", "url": "https://telegram.me//ttguesss" },
+        { "name": "twitter", "url": "https://twitter.com/ttguessofficial" },
+        { "name": "medium", "url": "https://ttguess.medium.com/" }
+      ],
+      "tags": []
+    },
   ]
 }
