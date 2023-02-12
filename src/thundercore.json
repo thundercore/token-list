@@ -414,5 +414,20 @@
       ],
       "tags": []
     },
+    {
+      "address": "0x54709eba537955a9be4f5014abffb528c0879071",
+      "symbol": "WOLF",
+      "name": "WolfToken",
+      "decimals": 18,
+      "description": "The fuel of WOLF ecosystem",
+      "ttswap_exchange": "0xdb0cd28283663f5740425332580b8b45bca4f829",
+      "website": "https://wolftoken.ethgames.fun",
+      "socials": [
+        { "name": "telegram", "url": "https://telegram.me/ethgamesgroup" },
+        { "name": "twitter", "url": "https://www.twitter.com/ethgames2022" },
+        { "name": "discord", "url": "https://discord.gg/HUETSDvU" }
+      ],
+      "tags": []
+    }
   ]
 }
