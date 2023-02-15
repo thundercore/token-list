@@ -421,14 +421,8 @@
         "decimals": 18,
         "website": "https://multichain.org/",
         "socials": [
-            {
-                "name": "telegram",
-                "url": "https://t.me/anyswap"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/MultichainOrg"
-            }
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
         ],
         "tags": []
     },
@@ -438,15 +432,9 @@
         "name": "SushiToken",
         "decimals": 18,
         "website": "https://multichain.org/",
-        "socials": [
-            {
-                "name": "telegram",
-                "url": "https://t.me/anyswap"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/MultichainOrg"
-            }
+       "socials": [
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
         ],
         "tags": []
     },
@@ -457,14 +445,8 @@
         "decimals": 18,
         "website": "https://multichain.org/",
         "socials": [
-            {
-                "name": "telegram",
-                "url": "https://t.me/anyswap"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/MultichainOrg"
-            }
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
         ],
         "tags": []
     },
@@ -475,14 +457,8 @@
         "decimals": 18,
         "website": "https://multichain.org/",
         "socials": [
-            {
-                "name": "telegram",
-                "url": "https://t.me/anyswap"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/MultichainOrg"
-            }
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
         ],
         "tags": []
     },
@@ -493,14 +469,8 @@
         "decimals": 8,
         "website": "https://multichain.org/",
         "socials": [
-            {
-                "name": "telegram",
-                "url": "https://t.me/anyswap"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/MultichainOrg"
-            }
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
         ],
         "tags": []
     },
@@ -511,14 +481,8 @@
         "decimals": 6,
         "website": "https://multichain.org/",
         "socials": [
-            {
-                "name": "telegram",
-                "url": "https://t.me/anyswap"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/MultichainOrg"
-            }
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
         ],
         "tags": []
     },
@@ -529,14 +493,8 @@
         "decimals": 6,
         "website": "https://multichain.org/",
         "socials": [
-            {
-                "name": "telegram",
-                "url": "https://t.me/anyswap"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/MultichainOrg"
-            }
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
         ],
         "tags": []
     }
