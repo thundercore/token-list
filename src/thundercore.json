@@ -497,6 +497,20 @@
             { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
         ],
         "tags": []
+    },
+      "address": "0xff938bf442acef553441f06f35d2871a7393ec2e",
+      "symbol": "Seal",
+      "name": "Seal",
+      "decimals": 18,
+      "description": "Super power token for everone",
+      "ttswap_exchange": "0x2597805a4f84f186fd0940b2e72161dbcf512874",
+      "website": "https://ttguess-b5023.web.app/",
+      "socials": [
+        { "name": "telegram", "url": "https://telegram.me//ttguesss" },
+        { "name": "twitter", "url": "https://twitter.com/ttguessofficial" },
+        { "name": "medium", "url": "https://ttguess.medium.com/" }
+      ],
+      "tags": []
     }
   ]
 }
