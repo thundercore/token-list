@@ -511,6 +511,19 @@
         { "name": "medium", "url": "https://ttguess.medium.com/" }
       ],
       "tags": []
+    },
+        {
+      "address": "0x1d44A37D6104DF6Cf996425839829BE09bEE4F33",
+      "symbol": "LASER",
+      "name": "Laser Token",
+      "decimals": 18,
+      "description": "Laserswap is the best DEX on Thundercore",
+      "website": "https://laserswap.finance/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/Laser_Swap" },
+        { "name": "twitter", "url": "https://twitter.com/laser_swap" }
+      ],
+      "tags": []
     }
   ]
 }
