@@ -415,6 +415,89 @@
       "tags": []
     },
     {
+        "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+        "symbol": "BNB",
+        "name": "Binance Token",
+        "decimals": 18,
+        "website": "https://multichain.org/",
+        "socials": [
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
+        ],
+        "tags": []
+    },
+    {
+        "address": "0xabd380327fe66724ffda91a87c772fb8d00be488",
+        "symbol": "SUSHI",
+        "name": "SushiToken",
+        "decimals": 18,
+        "website": "https://multichain.org/",
+       "socials": [
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
+        ],
+        "tags": []
+    },
+    {
+        "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
+        "symbol": "BUSD",
+        "name": "Binance USD",
+        "decimals": 18,
+        "website": "https://multichain.org/",
+        "socials": [
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
+        ],
+        "tags": []
+    },
+    {
+        "address": "0xe6801928061cdbe32ac5ad0634427e140efd05f9",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "website": "https://multichain.org/",
+        "socials": [
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
+        ],
+        "tags": []
+    },
+    {
+        "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "website": "https://multichain.org/",
+        "socials": [
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
+        ],
+        "tags": []
+    },
+    {
+        "address": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "website": "https://multichain.org/",
+        "socials": [
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
+        ],
+        "tags": []
+    },
+    {
+        "address": "0x0dcb0cb0120d355cde1ce56040be57add0185baa",
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "decimals": 6,
+        "website": "https://multichain.org/",
+        "socials": [
+            { "name": "telegram", "url": "https://t.me/anyswap" },
+            { "name": "twitter", "url": "https://twitter.com/MultichainOrg" }
+        ],
+        "tags": []
+    },
       "address": "0xff938bf442acef553441f06f35d2871a7393ec2e",
       "symbol": "Seal",
       "name": "Seal",
@@ -441,6 +524,6 @@
         { "name": "twitter", "url": "https://twitter.com/laser_swap" }
       ],
       "tags": []
-    },
+    }
   ]
 }
