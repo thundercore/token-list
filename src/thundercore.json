@@ -519,6 +519,7 @@
       "decimals": 18,
       "description": "Laserswap is the best DEX on Thundercore",
       "website": "https://laserswap.finance/",
+      "ttswap_exchange": "0x06Ef32425c8115BE954646DA8D4631c5e1C904dD",
       "socials": [
         { "name": "telegram", "url": "https://t.me/Laser_Swap" },
         { "name": "twitter", "url": "https://twitter.com/laser_swap" }
