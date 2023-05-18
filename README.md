@@ -20,6 +20,7 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
    * Product / Website URL 
    * Logo / Icon image (should be not larger than *256 x 256* pixel) 
    * The token contract must be verified on [Viewblock](https://viewblock.io/thundercore)
+   * NOTE: If you would like your token icon to show up on Viewblock, please submit a PR to [Viewblock's Repository](https://github.com/ViewBlock/cryptometa/tree/c0c754fa2bc9a9f2e6515389662108331672001e/data/thundercore/assets)
 
 ## Decline Listing Policy
 - Miss any token information mentioned above
