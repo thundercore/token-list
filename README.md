@@ -20,7 +20,9 @@ ThunderCore strives to create a platform full of opportunities, rich with conten
    * Product / Website URL 
    * Logo / Icon image (should be not larger than *256 x 256* pixel) 
    * The token contract must be verified on [Viewblock](https://viewblock.io/thundercore)
-   * NOTE: If you would like your token icon to show up on Viewblock, please submit a PR to [Viewblock's Repository](https://github.com/ViewBlock/cryptometa/tree/c0c754fa2bc9a9f2e6515389662108331672001e/data/thundercore/assets)
+   * NOTE: 
+   ***If you would like your token icon to show up on Viewblock, please submit a PR to [Viewblock's Repository](https://github.com/ViewBlock/cryptometa/tree/c0c754fa2bc9a9f2e6515389662108331672001e/data/thundercore/assets)
+   ***If you would like your token to be listed on [SushiSwap](https://www.sushi.com/swap?chainId=108&fromChainId=108&fromCurrency=0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077&toChainId=108&toCurrency=NATIVE&amount=), please submit a [listing application](https://www.sushi.com/partner).
 
 ## Decline Listing Policy
 - Miss any token information mentioned above
