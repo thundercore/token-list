@@ -525,6 +525,21 @@
         { "name": "twitter", "url": "https://twitter.com/laser_swap" }
       ],
       "tags": []
+    },
+    {
+      "address": "0xF0B1D192eF3561BcCE5E129237d583B7051Db8f1",
+      "symbol": "MPC",
+      "name": "Multiplayer Chip",
+      "decimals": 18,
+      "description": "MPC is token that used to play multiplayer game in MPPlayGames",
+      "website": "https://mpplaygames.com/",
+      "ttswap_exchange": "0xF0B1D192eF3561BcCE5E129237d583B7051Db8f1",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/+M5ia-BN1OwAwMGE5" },
+        { "name": "twitter", "url": "https://twitter.com/MpgBlockchain" }
+      ],
+      "tags": []
     }
+
   ]
 }
